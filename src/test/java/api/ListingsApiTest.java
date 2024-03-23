@@ -13,7 +13,7 @@
 
 package api;
 
-import listingsItemsV1.ApiException;
+import invoker.ApiException;
 import models.listingsItemsV1.ErrorList;
 import models.listingsItemsV1.Item;
 import models.listingsItemsV1.ListingsItemPatchRequest;
